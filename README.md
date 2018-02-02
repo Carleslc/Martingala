@@ -1,7 +1,7 @@
 # Martingala
 Simulador de casino y ruleta usando la estrategia Martingala con el sistema de 50% o 66%, aunque en el cálculo se tiene en cuenta el 0 de la ruleta europea y por lo tanto las probabilidades reales son algo menores.
 
-## Sistema del 50%
+## Sistema del 50%
 
 **Probabilidad real por apuesta**: _18/37 = ~0,4865%_
 
